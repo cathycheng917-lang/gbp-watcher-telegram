@@ -1,9 +1,9 @@
 # 触发阈值：数字越小表示越“便宜”（更接近你想换汇的点）
 thresholds:
-  watch: 9999
-  target: 9998
-  lower_1: 9997
-  strong: 9996
+  watch: 9.11
+  target: 9.00
+  lower_1: 8.95
+  strong: 8.90
 
 # 运行时间窗口（北京时间）
 run_window:
