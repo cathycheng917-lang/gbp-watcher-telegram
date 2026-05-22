@@ -1,0 +1,18 @@
+# 触发阈值：数字越小表示越“便宜”（更接近你想换汇的点）
+thresholds:
+  watch: 9.11
+  target: 9.00
+  lower_1: 8.95
+  strong: 8.90
+
+# 运行时间窗口（北京时间）
+run_window:
+  tz: Asia/Shanghai
+  start: "09:00"
+  end: "23:00"
+
+# 数据源：默认抓取中国银行「外汇牌价」页面
+source:
+  url: "https://www.boc.cn/sourcedb/whpj/"
+  currency_keywords: ["英镑", "GBP"]
+  field_keywords: ["现汇卖出价", "Selling Rate"]
