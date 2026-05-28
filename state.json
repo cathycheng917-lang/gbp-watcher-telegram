@@ -5,15 +5,16 @@
   "fixed_checkpoints_sent": [
     9,
     13,
-    17
+    17,
+    21
   ],
   "last_alert_date": "2026-05-28",
   "last_alert_level": null,
-  "last_checked_at": "2026-05-28T17:56:07.885863+08:00",
-  "last_checkpoint_band": 9.12,
-  "last_checkpoint_hour": 17,
-  "last_rate": 9.1209,
-  "last_raw_rate": 912.09,
+  "last_checked_at": "2026-05-28T21:52:09.653279+08:00",
+  "last_checkpoint_band": 9.13,
+  "last_checkpoint_hour": 21,
+  "last_rate": 9.1359,
+  "last_raw_rate": 913.59,
   "last_threshold_level": null,
   "rebound_alert_sent": false,
   "regular_checkpoints_sent": []
