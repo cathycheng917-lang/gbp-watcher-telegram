@@ -4,15 +4,16 @@
   "day_low_rate": 9.1045,
   "fixed_checkpoints_sent": [
     13,
-    17
+    17,
+    21
   ],
   "last_alert_date": "2026-08-07",
-  "last_alert_level": "watch",
-  "last_checked_at": "2026-08-07T20:27:55.874859+08:00",
-  "last_checkpoint_band": 9.11,
-  "last_checkpoint_hour": 19,
-  "last_rate": 9.1128,
-  "last_raw_rate": 911.28,
+  "last_alert_level": null,
+  "last_checked_at": "2026-08-07T21:49:51.810053+08:00",
+  "last_checkpoint_band": 9.14,
+  "last_checkpoint_hour": 21,
+  "last_rate": 9.1482,
+  "last_raw_rate": 914.82,
   "last_threshold_level": "watch",
   "rebound_alert_sent": false,
   "regular_checkpoints_sent": [
