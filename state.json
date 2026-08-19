@@ -3,13 +3,14 @@
   "day_low_at": "2026-08-19T09:51:38.605648+08:00",
   "day_low_rate": 9.1601,
   "fixed_checkpoints_sent": [
-    9
+    9,
+    13
   ],
   "last_alert_date": "2026-08-19",
   "last_alert_level": null,
-  "last_checked_at": "2026-08-19T12:21:08.535093+08:00",
+  "last_checked_at": "2026-08-19T13:01:55.163502+08:00",
   "last_checkpoint_band": 9.16,
-  "last_checkpoint_hour": 11,
+  "last_checkpoint_hour": 13,
   "last_rate": 9.164,
   "last_raw_rate": 916.4,
   "last_threshold_level": null,
