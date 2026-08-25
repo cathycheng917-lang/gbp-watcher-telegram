@@ -8,14 +8,15 @@
   ],
   "last_alert_date": "2026-08-25",
   "last_alert_level": null,
-  "last_checked_at": "2026-08-25T14:54:31.181734+08:00",
-  "last_checkpoint_band": 9.19,
-  "last_checkpoint_hour": 13,
-  "last_rate": 9.1982,
-  "last_raw_rate": 919.82,
+  "last_checked_at": "2026-08-25T15:40:16.568349+08:00",
+  "last_checkpoint_band": 9.2,
+  "last_checkpoint_hour": 15,
+  "last_rate": 9.2059,
+  "last_raw_rate": 920.59,
   "last_threshold_level": null,
   "rebound_alert_sent": false,
   "regular_checkpoints_sent": [
-    11
+    11,
+    15
   ]
 }
