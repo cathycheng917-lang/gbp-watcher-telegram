@@ -1,18 +1,16 @@
 {
-  "current_date": "2026-09-13",
-  "day_low_at": "2026-09-13T13:22:04.236391+08:00",
-  "day_low_rate": 9.1122,
-  "fixed_checkpoints_sent": [
-    13
-  ],
-  "last_alert_date": "2026-09-13",
-  "last_alert_level": null,
-  "last_checked_at": "2026-09-14T08:10:22.668233+08:00",
-  "last_checkpoint_band": 9.11,
-  "last_checkpoint_hour": 13,
-  "last_rate": 9.1122,
-  "last_raw_rate": 911.22,
-  "last_threshold_level": null,
+  "current_date": "2026-09-14",
+  "day_low_at": "2026-09-14T12:54:04.327835+08:00",
+  "day_low_rate": 9.0942,
+  "fixed_checkpoints_sent": [],
+  "last_alert_date": "2026-09-14",
+  "last_alert_level": "watch",
+  "last_checked_at": "2026-09-14T12:54:04.327835+08:00",
+  "last_checkpoint_band": null,
+  "last_checkpoint_hour": null,
+  "last_rate": 9.0942,
+  "last_raw_rate": 909.42,
+  "last_threshold_level": "watch",
   "rebound_alert_sent": false,
   "regular_checkpoints_sent": []
 }
