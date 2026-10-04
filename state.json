@@ -7,12 +7,14 @@
   ],
   "last_alert_date": "2026-10-04",
   "last_alert_level": "lower_1",
-  "last_checked_at": "2026-10-04T09:46:48.812600+08:00",
+  "last_checked_at": "2026-10-04T15:43:21.209675+08:00",
   "last_checkpoint_band": 8.92,
-  "last_checkpoint_hour": 9,
+  "last_checkpoint_hour": 15,
   "last_rate": 8.9204,
   "last_raw_rate": 892.04,
   "last_threshold_level": "lower_1",
   "rebound_alert_sent": false,
-  "regular_checkpoints_sent": []
+  "regular_checkpoints_sent": [
+    15
+  ]
 }
